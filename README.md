@@ -1,5 +1,5 @@
 # PuffinFisch
-<img width="419" height="700" alt="image" src="https://github.com/user-attachments/assets/c0377714-0c06-4266-b0fe-9eb1fa0d1b4b" />
+<img width="417" height="701" alt="image" src="https://github.com/user-attachments/assets/71250d34-7c5c-4079-9c13-cc2217dbdbec" />
 
 Puffin is an auto-fishing bot for Fisch written in Python
 
