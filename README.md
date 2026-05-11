@@ -3,4 +3,6 @@
 
 Puffin is an auto-fishing bot for Fisch written in Python
 
-Requires Python to be installed
+Download from [Releases](https://github.com/ccameron2/PuffinFisch/releases)
+
+Requires [Python](https://www.python.org/downloads/) to be installed
