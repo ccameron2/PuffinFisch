@@ -3,8 +3,8 @@ Auto-fishing bot for the Roblox game Fisch. Reads the screen with OpenCV, plays 
 
 <table> <tr> 
 <td rowspan="2"><img width="500" height="667" alt="PuffinUI" src="https://github.com/user-attachments/assets/13e81b37-43e3-4b32-a198-dce426fa9b2a" /></td> 
-<td><img width="600" alt="PuffinCircles" src="https://github.com/user-attachments/assets/d694e905-a98b-4406-9fa6-30f2b5122d1d" /></td> 
-</tr> <tr> <td><img width="600" alt="PuffinMinigame" src="https://github.com/user-attachments/assets/2ddbe308-5b55-4cd7-8fbd-48ff8b7909a9" /></td> 
+<td><img width="500" alt="PuffinCircles" src="https://github.com/user-attachments/assets/d694e905-a98b-4406-9fa6-30f2b5122d1d" /></td> 
+</tr> <tr> <td><img width="500" alt="PuffinMinigame" src="https://github.com/user-attachments/assets/2ddbe308-5b55-4cd7-8fbd-48ff8b7909a9" /></td> 
 </tr> </table>
 
 ## How it works
