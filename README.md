@@ -13,15 +13,17 @@ Puffin captures the Roblox window with `mss` and uses HSV/saturation masks to tr
 - Reel minigame: keeps the control bar over the fish
 - Cast minigame: releases at the green tip for a perfect cast
 - Shake button: detects the dark overlay disk and clicks it
-No memory reading or injection: only looks at pixels and moves the mouse
+
+<br> No memory reading or injection: only looks at pixels and moves the mouse
 
 ## Rod modes
-- Standard: Blue fish capsule, lit moving bar
+- Standard: Grey fish capsule, lit moving bar
 - Requiem: Custom bar, hold/release control capped at ~100 BPM
 - Pinions: Custom bar + note targeting
 - Tryhard: Custom All-red UI: detection keys on saturation instead of hue
 - Perfect Cast:	Holds the cast until the fill bar reaches the green tip
-Modes are mutually exclusive and persist in the Windows registry along with the toggle key and bar colour
+
+<br> Modes are mutually exclusive and persist in the Windows registry along with the toggle key and bar colour
 
 ## Install
 - Download the latest Puffin.exe from [Releases](https://github.com/ccameron2/PuffinFisch/releases)
