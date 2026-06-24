@@ -24,8 +24,8 @@ No memory reading or injection: only looks at pixels and moves the mouse
 Modes are mutually exclusive and persist in the Windows registry along with the toggle key and bar colour
 
 ## Install
-Download the latest Puffin.exe from [Releases](https://github.com/ccameron2/PuffinFisch/releases)
-Requires [Python](https://www.python.org/downloads/) to be installed
+- Download the latest Puffin.exe from [Releases](https://github.com/ccameron2/PuffinFisch/releases)
+- Requires [Python](https://www.python.org/downloads/) to be installed
 
 ## Run
 - Launch Roblox and open Fisch
